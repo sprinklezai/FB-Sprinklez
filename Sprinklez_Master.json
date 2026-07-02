@@ -1,0 +1,44 @@
+[
+  {
+    "Sr_No_CountryCode": "1",
+    "Country_Code": "AE",
+    "Country_Name": "United Arab Emirates",
+    "Country_ISO_Code": "AE",
+    "Country_PhoneCode": ""
+  },
+  {
+    "Sr_No_CountryCode": "2",
+    "Country_Code": "SA",
+    "Country_Name": "Saudi Arabia",
+    "Country_ISO_Code": "SA",
+    "Country_PhoneCode": ""
+  },
+  {
+    "Sr_No_CountryCode": "3",
+    "Country_Code": "OM",
+    "Country_Name": "Oman",
+    "Country_ISO_Code": "OM",
+    "Country_PhoneCode": ""
+  },
+  {
+    "Sr_No_CountryCode": "4",
+    "Country_Code": "BH",
+    "Country_Name": "Bahrain",
+    "Country_ISO_Code": "BH",
+    "Country_PhoneCode": ""
+  },
+  {
+    "Sr_No_CountryCode": "5",
+    "Country_Code": "QA",
+    "Country_Name": "Qatar",
+    "Country_ISO_Code": "QA",
+    "Country_PhoneCode": ""
+  },
+  {
+    "Sr_No_CountryCode": "6",
+    "Country_Code": "KW",
+    "Country_Name": "Kuwait",
+    "Country_ISO_Code": "KW",
+    "Country_PhoneCode": ""
+  }
+]
