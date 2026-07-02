@@ -1,0 +1,58 @@
+[
+  {
+    "Brand_Sr_No": "1",
+    "Brand_Code": "ALB",
+    "Brand_Name": "ALLO BEIRUT",
+    "Brand_Desc": "Allo Beirut",
+    "Brand_Ora_Code": "510013"
+  },
+  {
+    "Brand_Sr_No": "2",
+    "Brand_Code": "CSC",
+    "Brand_Name": "COLSTONE CREMERY",
+    "Brand_Desc": "Colstone Cremery",
+    "Brand_Ora_Code": "530001"
+  },
+  {
+    "Brand_Sr_No": "3",
+    "Brand_Code": "JMP",
+    "Brand_Name": "JAMIE'S PIZZERIA",
+    "Brand_Desc": "Jamie'S Pizzeria",
+    "Brand_Ora_Code": "510005"
+  },
+  {
+    "Brand_Sr_No": "4",
+    "Brand_Code": "JMT",
+    "Brand_Name": "JAMIE'S ITALIAN",
+    "Brand_Desc": "Jamie'S Italian",
+    "Brand_Ora_Code": "510003"
+  },
+  {
+    "Brand_Sr_No": "5",
+    "Brand_Code": "MCC",
+    "Brand_Name": "MOLTEN CHOCOLATE CAFE",
+    "Brand_Desc": "Molten Chocolate Cafe",
+    "Brand_Ora_Code": "510006"
+  },
+  {
+    "Brand_Sr_No": "6",
+    "Brand_Code": "NAN",
+    "Brand_Name": "NANDO'S",
+    "Brand_Desc": "Nando'S",
+    "Brand_Ora_Code": "510012"
+  },
+  {
+    "Brand_Sr_No": "7",
+    "Brand_Code": "SLI",
+    "Brand_Name": "SUSHI LIBRARY",
+    "Brand_Desc": "Sushi Library",
+    "Brand_Ora_Code": "530005"
+  },
+  {
+    "Brand_Sr_No": "8",
+    "Brand_Code": "WSP",
+    "Brand_Name": "WINGSTOP",
+    "Brand_Desc": "WingStop",
+    "Brand_Ora_Code": "510016"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Company_Sr_No": "1",
+    "Company_Code": "14001",
+    "Company_Name": "Apparel International LLC",
+    "Company_TRN_No": "",
+    "Company_Address": "",
+    "Company_Country_Code": "OM"
+  },
+  {
+    "Company_Sr_No": "2",
+    "Company_Code": "15007",
+    "Company_Name": "Sprinklez General Trading WLL",
+    "Company_TRN_No": "",
+    "Company_Address": "",
+    "Company_Country_Code": "BH"
+  },
+  {
+    "Company_Sr_No": "3",
+    "Company_Code": "16001",
+    "Company_Name": "Apparel Qatar WLL",
+    "Company_TRN_No": "",
+    "Company_Address": "",
+    "Company_Country_Code": "QA"
+  },
+  {
+    "Company_Sr_No": "4",
+    "Company_Code": "12002",
+    "Company_Name": "Apparel Trading Company Limited",
+    "Company_TRN_No": "",
+    "Company_Address": "",
+    "Company_Country_Code": "SA"
+  },
+  {
+    "Company_Sr_No": "5",
+    "Company_Code": "22003",
+    "Company_Name": "Sprinklez General Trading LLC",
+    "Company_TRN_No": "",
+    "Company_Address": "",
+    "Company_Country_Code": "AE"
+  },
+  {
+    "Company_Sr_No": "6",
+    "Company_Code": "22006",
+    "Company_Name": "Savour General Trading LLC",
+    "Company_TRN_No": "",
+    "Company_Address": "",
+    "Company_Country_Code": "AE"
+  },
+  {
+    "Company_Sr_No": "7",
+    "Company_Code": "13010",
+    "Company_Name": "Sprinklez For Restaurant Management WLL",
+    "Company_TRN_No": "",
+    "Company_Address": "",
+    "Company_Country_Code": "KW"
+  }
+]
